@@ -27,3 +27,24 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Android build artifacts
+.gradle/
+**/android/local.properties
+**/android/key.properties
+**/android/build/
+
+# iOS/macOS build artifacts
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ephemeral/
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/DerivedData/
+**/ios/build/
+
